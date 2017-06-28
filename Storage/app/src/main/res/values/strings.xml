@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="download_button">Download</string>
+    <string name="upload_button">Upload</string>
+</resources>

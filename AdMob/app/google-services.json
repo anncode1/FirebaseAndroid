@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681930550716",
+    "firebase_url": "https://platzi-firebase-curso.firebaseio.com",
+    "project_id": "platzi-firebase-curso",
+    "storage_bucket": "platzi-firebase-curso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681930550716:android:d3485c5a74e24d41",
+        "android_client_info": {
+          "package_name": "com.anncode.firebasecursoplatzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681930550716-ve9iud8b9lvd4tbv0f9l8kv028ii0q0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyL4l5jYZijapzFs-FPi3ST7DaaayS7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

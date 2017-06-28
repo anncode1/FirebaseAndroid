@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrashReporting</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second number</string>
+</resources>
