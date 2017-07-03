@@ -1,2 +1,7 @@
 # FirebaseAndroid
-Proyectos del Curso Profesional de Firebase para Android
+
+Firebase Authentication
+
+- Correo y Contraseña
+- Google (Gmail)
+- Facebook
