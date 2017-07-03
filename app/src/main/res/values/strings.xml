@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">RealTime</string>
-    <string name="add_artist">Add Artist</string>
+    <string name="app_name">Storage</string>
+    <string name="download_button">Download</string>
+    <string name="upload_button">Upload</string>
 </resources>

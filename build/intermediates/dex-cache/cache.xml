@@ -3,120 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_d34babc93388299ba11001be5842dd9c114f7906/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4abaf3c983beac894139d7b997b95daa06094b3d">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eff1c1dc64bf019f9a52d887bf14ff0aa38fb4d3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b78abb5891955803d71ea9bb677113262a4f65ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_708f3e13c4117ec96488427b0e313f7ee6011796/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a75fe1abc4101814de019a2474af9ad5bb3436a2/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c2ae2cae585cee5f602014137ac6839509e39828/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_6cd836d71b221011d0954e19e27b14ebcb4747ff/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a4cd89c256e0d0a70a31de818c5444e1faec00cc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_1b284d22f75d695af30bd5b6b323dd73e47f3cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c9aa2fbfe10fe9385fec1aa77f798ee80a4af82f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="13008f1bed429df8da3ee785072bb4e3bd67f7a7">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c0da09f8b4c4296e606c0881ba26acda1b39e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_6ac9a75a0c002f25df7b0cd9bafb34fae5142648/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d33a48b2a5ac3cdc0e8b2fa578e42153393a393e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_83694225177b568853a9be0da0dd0766c46becd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_621bbca334886ce531ee0d7004ad6dc36cea8b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_29fd47217cff765a307d8ca7828657002f681f0b/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3258bca1d8dbdc3c968c8554b0c72ef4933a7736/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fb46a2211e78651717a813d00887e08fd0bdba40/classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8b155d8eaacf58b09c937b62437770815859e7e2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_04d41ef1f292dc5cc557e96fb8756ee77e3cad2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a00368b9f685c2f5a14cfb942dfaefedc25a5497/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d7d66b538554fa3958d806c4fedcef3f087c8d38/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_1603d6da36b0219d3d049c857017f730d720418c/classes.dex" />
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_f33d234410c20ebe06c3136674aabe2b4e162b38/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_f75ce812ac62fb2b8488a5aeca553b5784f8fffa/classes.dex" />
+        sha1="b2999c3d86f9dcc9af85e031adf8e6bf994c831a">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4068ccb1fc855b4a838580e80a0f8021ae444923/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_931b09d67b47d3319080afe7d62fcbedd00aec4b/classes.dex" />
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_846b90cfda8231141ab50c68560358aeb04c57f2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_79bd9a8975a141e550e2b7456eb07443e9d7a18a/classes.dex" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b02fd6cfabe954228f8e00db5af13d59b586d8c4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -125,106 +161,70 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cdb6051e8f1fe2fce4eda98574bff6792f94b61/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cdb6051e8f1fe2fce4eda98574bff6792f94b61/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5c55618d59dec528234055b9e59d987b2b4fd726/classes.dex" />
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_78bf5265c4e945e0c74d679a09bbb508a63d79ac/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="97e338e0ee4ff739e63ec2f89ea8ce8a195304ba">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ba6f8bf7922de98e9a7c26a1478c9d3e498a48d/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_d606a28787655858da6c7169cf8c62f3385ca4d4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_750901566a36e2ae1b8eac7a13fe08aa5d06ce3f/classes.dex" />
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_424a26f4053d9db34ac4f10d17b15a127fa1344d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_391718dd238410082c64c57c0ae9b1f572a28640/classes.dex" />
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_0a08a4ea3b78b41e7d5badf2ac12fd290f7c0780/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_8d84854b6c69c248ec73147ad6082a7f5eac5945/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_66b8ff5bef6df347ec51bba1f0e2e275673013d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_75a794f65805b65e00f0ef1dafabf1ca456439d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f7fec25c67b82fb603a28a60a486ed18492188f1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_08e9eb4865483af0b411c343891269ae20fc27b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_78a55d44df884a41e1e1f29a6937e85a45c97fd3/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_17ccf691d22c7b070f79705ce79f393a4df8c9b8/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/RealTime/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_e5f743f9bfbd8e616ba69998a0dcf520dd95f7b9/classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c0535e163fe405782f871cbdeb8154d3673ed38c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/Storage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_48e50b89cad856dae1b28fdcaa98fde859ea5192/classes.dex" />
     </item>
 
 </items>

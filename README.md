@@ -1,9 +1,6 @@
 # FirebaseAndroid
 
-Firebase Data Base Real-Time
+Firebase Storage
 
-- Create
-- Read
-- Update
-- Delete
-Data
+- Subida de Archivos
+- Descarga de Archivos
