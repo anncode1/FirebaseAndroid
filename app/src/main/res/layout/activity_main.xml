@@ -9,49 +9,18 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.anncode.firebasecursoplatzi.MainActivity"
-    android:orientation="vertical"
-    >
-
-    <EditText
-        android:id="@+id/edtEmail"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/hint_email"
-        android:inputType="textEmailAddress"/>
-
-    <EditText
-        android:id="@+id/edtPassword"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/hint_password"
-        android:inputType="textPassword"/>
+    android:orientation="vertical">
 
     <Button
-        android:id="@+id/btnCreateAccount"
+        android:id="@+id/btnAddArtist"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/create_account_button"/>
-
-    <Button
-        android:id="@+id/btnSignIn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/signin_button"/>
-
-
-    <com.google.android.gms.common.SignInButton
-        android:id="@+id/btnSignInGoogle"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-
+        android:text="@string/add_artist"
+        android:onClick="createArtist"
         />
-
-    <com.facebook.login.widget.LoginButton
-        android:id="@+id/btnSignInFacebook"
+    <ListView
+        android:id="@+id/lstArtist"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:paddingBottom="10dp"
-        android:paddingTop="10dp"
-        />
+        android:layout_height="match_parent"/>
+
 </LinearLayout>
