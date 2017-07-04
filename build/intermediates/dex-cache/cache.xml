@@ -3,147 +3,165 @@
 
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a32935fb971c13de9ff81ce168a0adfad6ffd13b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1a6fd3ae6302835999aa9a60b7a123384fd52a85">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_539a2c060e070b496ec21a99796318b009e3b4e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_50856f59a4349c7cf1225dbd322f3f206484a21f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fbf26bd57bde54422ed36073ae0badc1bbd92e59/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_8fb8954c8c6fb584c20c69f79c1fdc337569c64d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5f3dee21839797ac1770b44eecbe8015fd97796a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1fee0e9c3e67d9885bfc60baff216acfd0b64913/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_fd1c4e4b6c1b02726e54775b09d550db71e2f9d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8570be85a05397e8abd522be17bd7f8c81595dfb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_5873539702ed77bf1e7e29fe27d31244bf304f30/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a562b9a8a646f097cb360e9396e219df13d9af93/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_6526e4e9895806983ea538153fb86adae5ff8eb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_08b386b1484287105d66f89e363a719d0e114568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8f50e0ddfd50de9fad312047d8ec42067bc73e3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b87425459521111cb3b0dbeaa5e17f606acbd78a/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_bd71f15470ea1637e9a8838288e2dc3a6a2de711/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4159a4dc36fabe55e24eff97be9b517c3a0cad22/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_d13e2f11702842a6794297f9441161efe192e4bf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_a51700a387b37b4104799feb525d72e4ef8905c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b91d001775895cc65595b95a08dfd76bbd0fc175/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_37cf92d4ad5e8f8b8fd19776de20518085a06873/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_46423c33f5a40008c40fa77e6bac7467ed81242e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_5b546e9d5d079b7915e7c997ca70c96be9116c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_e28af8968f725999145c45147ae3e733f4381cd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_8d2be6601c0ff38361a540196afad3b88edaeeb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_da5b10168ef461d3889e052f092b1ce41cdbc735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7f3f2fb5c11b499f3402057fe792e79dd226368c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_26eb6095c271ebf60a53f3a9b74a87e502c7367a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_160e1eff1afc386639b8bd6384e6ace8113bdae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_da48e9777cfca4a9f0bac5eba8f69d9e34e994ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2f656d782bd14f6fd1202834f69c39572ce9dc6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_88352683258ad0bc60672a41497ddd6d26ab742d/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_562dd8a52051777972d56dd723d8cec1391c2de1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2dfe1c1149daf3a9979154103ad705798146e359">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ec68c9aa613f403ff6c8b168d2974343879f989/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -152,79 +170,88 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cdb6051e8f1fe2fce4eda98574bff6792f94b61/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cdb6051e8f1fe2fce4eda98574bff6792f94b61/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2dfb4655ef9ee1548b61d989b49ad75a8b16951e/classes.dex" />
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_c20883c9bbc79b04714f443dedb4c1e0d824acb7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_2b2eb9b0cf58983931b8af79c7f4280abe135ec5/classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4dbe7976e20a3a4989f32dd1a53fb27d0b4754e1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_e5da40428dffc5746ea924e4944d13156a4209e7/classes.dex" />
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_cf8abc85f899fdd8612c1a910f7006c0888412dd/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_49ea5769a484dad40d059895871d072108c86a8d/classes.dex" />
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_c561dc50f981d72b32eef4e53bc241886d1bb06b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_ce63c1f4b27c6e6e0e32dc9c98dd2b24f2e30286/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_74590cc3a75739c5381761ae75475356977a75a9/classes.dex" />
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e0ad3f56aec341ee3a95b7ff383802139b276e12/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="3098986d631a38b3bef1ddc04afa6694d7090c50">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff6af63d000000af65ccda06f755a1dae322a0a6/classes.dex" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_886d52ad1c2635db4119487e95f9dca2c08aeecf/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/DynamicLinkInvites/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_57acf5b6d9a9dcd350bdcc6b6b4a723f8a518690/classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9698973f13d15289eb5c21269b3e96855bb97e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ce9d81fad7ae1b929a2dc4f05bf7240bca556ce7">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6ad2bec561ef5a08d274e12e9278d07c21abb0cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Firebase/curso/AdMob/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1d8b1b1d7c6f371d6986a2461489a63b15511c11/classes.dex" />
     </item>
 
 </items>

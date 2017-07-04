@@ -1,5 +1,6 @@
 # FirebaseAndroid
 
-Firebase Dynamic Links e Invites
+Firebase AdMob
 
-- Se genera un dynamic link y se implementa código de Invites para recibirlo y mostrar lo adecuado
+- Generar un anuncio en Admob
+- Integración del anuncio en la App

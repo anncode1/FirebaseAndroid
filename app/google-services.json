@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "292542374753",
-    "firebase_url": "https://android-examples-2a122.firebaseio.com",
-    "project_id": "android-examples-2a122",
-    "storage_bucket": "android-examples-2a122.appspot.com"
+    "project_number": "681930550716",
+    "firebase_url": "https://platzi-firebase-curso.firebaseio.com",
+    "project_id": "platzi-firebase-curso",
+    "storage_bucket": "platzi-firebase-curso.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:292542374753:android:d3485c5a74e24d41",
+        "mobilesdk_app_id": "1:681930550716:android:d3485c5a74e24d41",
         "android_client_info": {
           "package_name": "com.anncode.firebasecursoplatzi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "292542374753-to99pkd181sae5mm1bjh0hv6lnqsak6n.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.anncode.firebasecursoplatzi",
-            "certificate_hash": "0e776080707732473704d7a1cf8b7edb4fb22a55"
-          }
-        },
-        {
-          "client_id": "292542374753-mrf5dpesav8adqj1qli5bgd2br9hjl66.apps.googleusercontent.com",
+          "client_id": "681930550716-ve9iud8b9lvd4tbv0f9l8kv028ii0q0b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC4WQYvBXx7ohsYHBK1NlI0flirxSBiM6Q"
+          "current_key": "AIzaSyAWyL4l5jYZijapzFs-FPi3ST7DaaayS7U"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "292542374753-mrf5dpesav8adqj1qli5bgd2br9hjl66.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
