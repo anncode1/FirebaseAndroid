@@ -1,6 +1,6 @@
 # FirebaseAndroid
 
-Firebase Remote Config
+Firebase Crash Reporting
 
-- Creando una configuración remota desde firebase hacia la Android app
+- Implementando Log's Crash Reporting en Android App
 
