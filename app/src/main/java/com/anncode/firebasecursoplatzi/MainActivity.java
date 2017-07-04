@@ -1,55 +1,82 @@
 package com.anncode.firebasecursoplatzi;
 
+import android.graphics.Color;
+import android.graphics.drawable.Drawable;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.messaging.FirebaseMessaging;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.remoteconfig.FirebaseRemoteConfig;
+import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "MainActivity";
-    private static final String KEY_DESCOUNT = "descount_key";
+    private FirebaseRemoteConfig remoteConfig;
 
-    private TextView tvDescountMessage;
-    private Button btnSuscribeAndroid;
-    private Button btnSuscribeFirebase;
+    private LinearLayout linearLayout;
+    private ImageView imvLogo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        tvDescountMessage = (TextView) findViewById(R.id.tvDescountMessage);
-        btnSuscribeAndroid = (Button) findViewById(R.id.btnSuscribeAndroid);
-        btnSuscribeFirebase = (Button) findViewById(R.id.btnSuscribeFirebase);
-        tvDescountMessage.setVisibility(View.GONE);
+        linearLayout = (LinearLayout) findViewById(R.id.activity_main);
+        imvLogo = (ImageView) findViewById(R.id.imvLogo);
 
+        remoteConfig = FirebaseRemoteConfig.getInstance();
 
+        FirebaseRemoteConfigSettings remoteConfigSettings
+                = new FirebaseRemoteConfigSettings.Builder()
+                .setDeveloperModeEnabled(true)
+                .build();
 
-        String token = FirebaseInstanceId.getInstance().getToken();
-        Log.w(TAG, "token: " + token);
+        remoteConfig.setConfigSettings(remoteConfigSettings);
+        remoteConfig.setDefaults(R.xml.remote_config_defaults);
 
-        if (getIntent().getExtras() != null){
-            tvDescountMessage.setVisibility(View.VISIBLE);
-            String descount = getIntent().getExtras().getString(KEY_DESCOUNT);
-            tvDescountMessage.append(descount);
+        setConfigurationView();
+
+    }
+
+    private void setConfigurationView(){
+        linearLayout.setBackgroundColor(Color.parseColor(remoteConfig.getString("color_background")));
+        Log.w("NAME", "name: " + remoteConfig.getString("image_background"));
+        if (remoteConfig.getString("image_background").equals("happyface")){
+            imvLogo.setImageResource(R.drawable.happyface);
+        }else if(remoteConfig.getString("image_background").equals("pikachuchistmas")){
+            imvLogo.setImageResource(R.drawable.pikachuchistmas);
+        }else if(remoteConfig.getString("image_background").equals("valentinesday")){
+            imvLogo.setImageResource(R.drawable.valentinesday);
+        }
+    }
+
+    public void syncroinizeData(View view){
+        long cacheExpiration = 3600;
+
+        if (remoteConfig.getInfo().getConfigSettings().isDeveloperModeEnabled()){
+            cacheExpiration = 0;
         }
 
-    }
+        remoteConfig.fetch(cacheExpiration).addOnCompleteListener(this, new OnCompleteListener<Void>() {
+            @Override
+            public void onComplete(@NonNull Task<Void> task) {
+                if (task.isSuccessful()){
+                    Toast.makeText(MainActivity.this, "Syncronize Done", Toast.LENGTH_SHORT).show();
+                    remoteConfig.activateFetched();
+                }else{
+                    Toast.makeText(MainActivity.this, "Syncronize Fail", Toast.LENGTH_SHORT).show();
+                }
 
-    public void suscribeAndroid(View view){
-        FirebaseMessaging.getInstance().subscribeToTopic("Android");
-        Toast.makeText(this, "Felicidades te suscribiste a Android", Toast.LENGTH_SHORT).show();
-    }
+                setConfigurationView();
+            }
+        });
 
-    public void suscribeFirebase(View view){
-        FirebaseMessaging.getInstance().subscribeToTopic("Firebase");
-        Toast.makeText(this, "Felicidades te suscribiste a Firebase", Toast.LENGTH_SHORT).show();
     }
 }

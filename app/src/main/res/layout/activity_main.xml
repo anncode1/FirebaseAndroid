@@ -12,34 +12,20 @@
     android:orientation="vertical"
     >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Welcome to Platzi" />
-
-    <TextView
-        android:id="@+id/tvDescountMessage"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/you_have_a_descount"
-        android:textStyle="bold"
-        android:textSize="25sp"
-        android:layout_marginTop="80dp"
+    <ImageView
+        android:id="@+id/imvLogo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@android:drawable/ic_dialog_map"
+        android:layout_gravity="center_horizontal"
         />
 
     <Button
-        android:id="@+id/btnSuscribeAndroid"
-        android:layout_width="wrap_content"
+        android:id="@+id/btnSyncronize"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/suscribe_android"
-        android:onClick="suscribeAndroid"
-        />
-
-    <Button
-        android:id="@+id/btnSuscribeFirebase"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/suscribe_firebase"
-        android:onClick="suscribeFirebase"
+        android:layout_marginTop="50dp"
+        android:text="Syncronize App"
+        android:onClick="syncroinizeData"
         />
 </LinearLayout>

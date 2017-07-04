@@ -1,7 +1,6 @@
 # FirebaseAndroid
 
-Firebase Notifications
+Firebase Remote Config
 
-- Envío de una notificación
-- Segmentación de una notificación
+- Creando una configuración remota desde firebase hacia la Android app
 
