@@ -1,6 +1,5 @@
 # FirebaseAndroid
 
-Firebase Crash Reporting
+Firebase Dynamic Links e Invites
 
-- Implementando Log's Crash Reporting en Android App
-
+- Se genera un dynamic link y se implementa código de Invites para recibirlo y mostrar lo adecuado
