@@ -1,6 +1,7 @@
 # FirebaseAndroid
 
-Firebase Storage
+Firebase Notifications
 
-- Subida de Archivos
-- Descarga de Archivos
+- Envío de una notificación
+- Segmentación de una notificación
+
